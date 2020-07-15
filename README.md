@@ -9,3 +9,5 @@ Objective:
 Tools:
 
 Dev C++
+
+This is my first project in university. So, it look quite messy as I does not have enough knowledge to implement class relationship
